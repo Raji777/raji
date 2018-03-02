@@ -8,25 +8,25 @@ cout<<"Enter the day";
 cin>>s;
 switch(s)
 {
-case monday:
+case 'monday':
 cout<<"no";
 break;
-case tuesday:
+case 'tuesday':
 cout<<"no";
 break;
-case wednesday:
+case 'wednesday':
 cout<<"no";
 break;
-case thursday:
+case 'thursday':
 cout<<"no";
 break;
-case friday:
+case 'friday':
 cout<<"no";
 break;
-case saturday:
+case 'saturday':
 cout<<"yes";
 break;
-case sunday:
+case 'sunday':
 cout<<"yes";
 break;
 }
